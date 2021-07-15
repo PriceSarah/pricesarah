@@ -1,5 +1,12 @@
 ### Hello There! 👋
-aeiou
+I am a Video Game Programmer based in Louisiana
+
+You can reach out to me with pricesarahwork@gmail.com
+
+##Important Links
+
+* [Linkedin](https://www.linkedin.com/in/price-sarah/)
+* [My Itch Page](https://elvenrogue.itch.io/)
 
 <!--
 Hello!
