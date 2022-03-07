@@ -1,5 +1,5 @@
 ### Hello There! 👋
-I am a Video Game Programmer based in Louisiana
+I am a Video Game Programmer based in Texas
 
 You can reach out to me with pricesarahwork@gmail.com
 
